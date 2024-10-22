@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I love shipping quality features and removing obstacles to shipping more of them. Currently looking for an employer, learning, and contributing to open source projects.
+I love shipping quality features and removing obstacles to shipping more of them. Currently looking for an employer, learning Go, and contributing to open source projects.
 
 I have recent contributions to Rails, Shopify, and Ruby for Good. I work best in Ruby and Javascript.
 
